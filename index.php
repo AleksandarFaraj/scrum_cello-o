@@ -4,10 +4,10 @@
 			<div class="container">
 				<h1>Cell-o</h1>
 			</div>
-			<div class="col-lg-4">
+			<div class="col-md-4">
 				<img src="img/cello.jpg" alt="">
 			</div>
-			<div class="col-lg-8">
+			<div class="col-md-8">
 				<p>
 					Välkommen till min informationssida om Cell-O!
 					Människosläktet definierat Cell-O som ett djur.
