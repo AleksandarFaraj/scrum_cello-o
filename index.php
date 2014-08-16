@@ -19,14 +19,13 @@
 			</div>
 			<div class="col-lg-12">
 				<div class="alert alert-info">
-					<h2>Scientific Information</h2>
-<h3>Amoeba</h3>
-<h4>Bacteria</h4>
-<p>The rainbow coloured amoeba is a species of passerine bacteria in the finch family Fringzillidae. It is endemic to the islands of Tenerife and Gran Canaria in Spain's Canary Islands.</p>
-<b>Scientific name:</b> Fringzilla teydea
-<b>Rank:</b> Species
-<b>Higher classification:</b> Fringzilla
-
+					<h2>Vetenskaplig Information</h2>
+					<h3>Amöba</h3>
+					<h4>Bakterie</h4>
+					<p>Den regnbågsfärgade amöba är art av tättingar bakterier i fink familjen Fringzillidae. Den är endemisk till öarna Teneriffa och Gran Canaria i spanska Kanarieöarna.</p>
+					<p><b>Vetenskapligtnamn name:</b> Fringzilla teydea</p>
+					<p><b>Rang:</b> Species</p>
+					<p><b>Högre klassifikation:</b> Fringzilla</p>
 				</div>
 			</div>
 				
