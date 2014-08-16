@@ -17,6 +17,11 @@
 					Vi har skapat denna sida för att vi vill hjälpa Cell-O att hitta en vän.
 				</p>
 			</div>
+			<div class="col-lg-12">
+				<div class="alert alert-info">
+					<h2>Scientific Information</h2>
+				</div>
+			</div>
 				
 		</div>
 		
