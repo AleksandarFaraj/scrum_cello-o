@@ -6,7 +6,10 @@
 			</div>
 			<div class="col-lg-8">
 				<p>
-					Here goes text...
+					Djuret Cello äter endast solida artiklar även så kallat stoft. Näringsintag bor ske en gång var tredje dag, ett gram/dag. 
+				  För mer detaljerad information <a href="http://sv.wikipedia.org/wiki/Damm_(stoft)"> klicka här</a>.
+					
+					
 				</p>
 			</div>
 				
