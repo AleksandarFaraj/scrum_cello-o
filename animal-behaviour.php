@@ -2,15 +2,12 @@
 	<section class="main container">
 		<div class="row">
 			<div class="container">
-				<h1>Diet Information</h1>
+				<h1>Animal Behaviour</h1>
 			</div>
 			<div class="col-lg-8">
-				<p>
-					Djuret Cello äter endast solida artiklar även så kallat stoft. Näringsintag bor ske en gång var tredje dag, ett gram/dag. 
-				  För mer detaljerad information <a href="http://sv.wikipedia.org/wiki/Damm_(stoft)"> klicka här</a>.
-					
-					
-				</p>
+				<p>Cell-o jagar i trupp på natten där den älskar att gräva ner sig i sand i väntan på sitt byte.</p>
+				<p>Rovdjur är obefintligt eftersom Cello luktar så illa att ingen vill vara nära. Cello sover inte. Alltid vaken. Ser dig alltid.</p>
+				<p>Cell-o sover i en grotta</p>
 			</div>
 				
 		</div>
