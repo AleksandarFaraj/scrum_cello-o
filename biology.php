@@ -7,7 +7,7 @@
 			<div class="col-lg-8">
 				<h2>Höjd/ vikt / storlek</h2>
 				<p>200µm lång, bred, djup och hög.</p>
-				<h2><b>Viktiga karaktärsdrag</h2>
+				<h2>Viktiga karaktärsdrag</h2>
 				<p>Slem. Överallt.</p>
 				<h2>Hur den andas</h2>
 				<p>Andas inte.</p>
