@@ -16,7 +16,7 @@
 					I dokumentären “Cell-O äter mat” gjord av Jan Skansholm, ser man Cell-O och hur den förtär allt i sin omgivning. Jan Skansholm har även dokumenterat hur den beter sig i sin vardag när den umgås med vänner i dokumentären Cell-O.
 					<ul>
 						<li><a href="https://www.youtube.com/watch?v=W6rnhiMxtKU">Cell-o äter mat.</a></li>
-						<li><a href="https://www.youtube.com/watch?v=7pR7TNzJ_pA"></a>Cell-o i dess vardag</li>
+						<li><a href="https://www.youtube.com/watch?v=7pR7TNzJ_pA">Cell-o i dess vardag</a></li>
 					</ul>
 				</p>
 
