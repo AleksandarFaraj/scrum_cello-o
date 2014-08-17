@@ -25,11 +25,12 @@
 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	      <ul class="nav navbar-nav">
 	        <li class="active"><a href="/">Home</a></li>
-	        <li class="active"><a href="/diet.php">Diet Information</a></li>
-	        <li class="active"><a href="/popular-culture.php">Populär Kultur</a></li>
-	        <li class="active"><a href="/animal-behaviour.php">Beteende</a></li>
-	        <li class="active"><a href="/biology.php">Biologi & Anatomi</a></li>
-	        <li class="active"><a href="/communication.php">Kommunikation</a></li>
+	        <li><a href="/diet.php">Diet Information</a></li>
+	        <li><a href="/popular-culture.php">Populär Kultur</a></li>
+	        <li><a href="/animal-behaviour.php">Beteende</a></li>
+	        <li><a href="/biology.php">Biologi & Anatomi</a></li>
+	        <li><a href="/communication.php">Kommunikation</a></li>
+	        <li><a href="/habitat.php">Bostad</a></li>
 	      </ul>
 	    </div><!-- /.navbar-collapse -->
 	  </div><!-- /.container-fluid -->
