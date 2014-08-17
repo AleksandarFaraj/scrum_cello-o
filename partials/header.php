@@ -29,7 +29,6 @@
 	        <li class="active"><a href="/popular-culture.php">Populär Kultur</a></li>
 	        <li class="active"><a href="/animal-behaviour.php">Beteende</a></li>
 	        <li class="active"><a href="/biology.php">Biologi & Anatomi</a></li>
-	        <li class="active"><a href="/mating.php">Parning</a></li>
 	        <li class="active"><a href="/communication.php">Kommunikation</a></li>
 	      </ul>
 	    </div><!-- /.navbar-collapse -->
