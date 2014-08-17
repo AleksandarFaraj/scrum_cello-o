@@ -1,7 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
 body {
 	background: #E8EBFF;
 	font-size: 2em;
-	font-family: 'Roboto';
+	font-family: 'Open Sans';
 }
 
 img {
