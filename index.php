@@ -1,4 +1,4 @@
-<?php include('partials/header.php'); ?>
+<?php include('partials/heade.php'); ?>
 	<section class="main container">
 		<div class="row">
 			<div class="container">
