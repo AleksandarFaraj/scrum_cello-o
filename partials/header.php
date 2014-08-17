@@ -30,6 +30,7 @@
 	        <li class="active"><a href="/animal-behaviour.php">Beteende</a></li>
 	        <li class="active"><a href="/biology.php">Biologi & Anatomi</a></li>
 	        <li class="active"><a href="/mating.php">Parning</a></li>
+	        <li class="active"><a href="/communication.php">Kommunikation</a></li>
 	      </ul>
 	    </div><!-- /.navbar-collapse -->
 	  </div><!-- /.container-fluid -->
