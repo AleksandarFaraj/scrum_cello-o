@@ -9,8 +9,6 @@
 				<p>Rovdjur är obefintligt eftersom Cello luktar så illa att ingen vill vara nära. Cello sover inte. Alltid vaken. Ser dig alltid.</p>
 				<p>Cell-o sover i en grotta</p>
 			</div>
-				
 		</div>
-		
 	</section>
 <?php include('partials/footer.php'); ?>
