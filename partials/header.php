@@ -31,6 +31,7 @@
 	        <li><a href="/biology.php">Biologi & Anatomi</a></li>
 	        <li><a href="/communication.php">Kommunikation</a></li>
 	        <li><a href="/habitat.php">Bostad</a></li>
+	        <li><a href="/emailform.php">Kontakta Cell-O</a></li>
 	      </ul>
 	    </div><!-- /.navbar-collapse -->
 	  </div><!-- /.container-fluid -->
