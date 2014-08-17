@@ -26,6 +26,10 @@
 	      <ul class="nav navbar-nav">
 	        <li class="active"><a href="/">Home</a></li>
 	        <li class="active"><a href="/diet.php">Diet Information</a></li>
+	        <li class="active"><a href="/popular-culture.php">Populär Kultur</a></li>
+	        <li class="active"><a href="/animal-behaviour.php">Beteende</a></li>
+	        <li class="active"><a href="/biology.php">Biologi & Anatomi</a></li>
+	        <li class="active"><a href="/mating.php">Parning</a></li>
 	      </ul>
 	    </div><!-- /.navbar-collapse -->
 	  </div><!-- /.container-fluid -->
